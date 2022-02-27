@@ -1949,8 +1949,6 @@ HOST-SUFFIX,sndcdn.com,海外服务
 HOST-SUFFIX,socdm.com,海外服务
 HOST-SUFFIX,soundcloud.com,海外服务
 HOST-SUFFIX,spoti.fi,海外服务
-HOST-SUFFIX,spotify.com,海外服务
-HOST-SUFFIX,spotifycdn.net,海外服务
 HOST-SUFFIX,streaks.jp,海外服务
 HOST-SUFFIX,theplatform.com,海外服务
 HOST-SUFFIX,tidal.com,海外服务
@@ -1973,7 +1971,6 @@ HOST-SUFFIX,viu.tv,海外服务
 HOST-SUFFIX,yb.uncn.jp,海外服务
 HOST-SUFFIX,youboranqs01.com,海外服务
 HOST-SUFFIX,ytimg.com,海外服务
-HOST-KEYWORD,-spotify-com,海外服务
 HOST-KEYWORD,-tiktokcdn-com,海外服务
 HOST-KEYWORD,abematv.akamaized.net,海外服务
 HOST-KEYWORD,avoddashs,海外服务
@@ -1988,12 +1985,10 @@ HOST-KEYWORD,livedazn,海外服务
 HOST-KEYWORD,nflx,海外服务
 HOST-KEYWORD,nowtv100,海外服务
 HOST-KEYWORD,rthklive,海外服务
-HOST-KEYWORD,spotify.com,海外服务
 HOST-KEYWORD,ttvnw,海外服务
 HOST-KEYWORD,uk-live,海外服务
 HOST-KEYWORD,voddazn,海外服务
 USER-AGENT,*PCCW*,海外服务
-USER-AGENT,*Spotify*,海外服务
 USER-AGENT,*nowe*,海外服务
 USER-AGENT,*pccw*,海外服务
 USER-AGENT,AbemaTV*,海外服务
@@ -2030,7 +2025,6 @@ USER-AGENT,PPlus*,海外服务
 USER-AGENT,Pandora*,海外服务
 USER-AGENT,Prime%20Video*,海外服务
 USER-AGENT,SoundCloud*,海外服务
-USER-AGENT,Spotify*,海外服务
 USER-AGENT,TIDAL*,海外服务
 USER-AGENT,TIDAL*dia,海外服务
 USER-AGENT,TVB*,海外服务
