@@ -1,82 +1,14 @@
-# > 流媒体emby-nexitally服务器
-HOST-SUFFIX,  emby.nexitally.com,Emby公益
-
-# > 流媒体emby-paoche服务器
-HOST-SUFFIX,  emby.cjpc.cc,Emby公益
-
-# > 流媒体emby-flowercloud服务器
-HOST-SUFFIX,  emby.flowercloud.yt,Emby公益
-
-# > 流媒体emby-maying服务器
-HOST-SUFFIX,  emby.maying.club,Emby公益
-
-# > 流媒体emby-mdss服务器
-HOST-SUFFIX,  emby.mdss.cloud,Emby公益
-
-# > 流媒体emby-ytoo服务器
-HOST-SUFFIX,  emby.ytoo.li,Emby公益
-
-# > 流媒体emby-w8ves服务器
-HOST-SUFFIX,  embyserver.ga,Emby公益
-
-# > 流媒体emby-prpr服务器
-HOST-SUFFIX,  emby.prprcloud.com,Emby公益
-
-# > 流媒体emby-nyancat服务器
-HOST-SUFFIX,  emby.nyancat.net,Emby公益
-
-# > 流媒体emby-Plus体验服
-HOST-SUFFIX,  emby.plusmedia.site,Emby公益
-HOST-SUFFIX,  emby-cf.plusmedia.site ,Emby公益
-HOST-SUFFIX,  emby.xeton.dev,Emby公益
-HOST-SUFFIX,  jellyfin.xeton.dev,Emby公益
-HOST-SUFFIX,  movie.xeton.dev,Emby公益
-HOST-SUFFIX,  servers.xeton.dev,Emby公益
-
-# > 流媒体emby-Otaku体验服
-HOST-SUFFIX,  emby.otakudrive.life,Emby公益
-HOST-SUFFIX,  emby2.otakudrive.life ,Emby公益
-
-# > 流媒体emby-jmsooo体验服
-HOST-SUFFIX,  agahk1.jmsooo.com,Emby公益
-HOST-SUFFIX,  agasg1.jmsooo.com,Emby公益
-HOST-SUFFIX,  agajp1.jmsooo.com,Emby公益
-HOST-SUFFIX,  ntt1.jmsooo.com,Emby公益
-HOST-SUFFIX,  hinet.jmsooo.com,Emby公益
-HOST-SUFFIX,  cf1.jmsooo.com,Emby公益
-
-# > 流媒体pornemby服务器
-HOST-SUFFIX,  pornemby.club,Emby公益
-
-# > 流媒体IMM服务器
-HOST-SUFFIX,  emby.immtel.com,Emby公益
-
-# > 流媒体Odyssey服务器
-HOST-SUFFIX,  cf.odysseyplus.site,Emby公益
-HOST-SUFFIX,  agahk.odysseyplus.site,Emby公益
-HOST-SUFFIX,  agasg.odysseyplus.site,Emby公益
-HOST-SUFFIX,  ru.odysseyplus.site,Emby公益
-
-# > 流媒体Exflux服务器
-HOST-SUFFIX,  line.emby.men,Emby公益
-
-# > 流媒体SoCloud服务器
-HOST-SUFFIX,  emby.run,Emby公益
-
-# > 流媒体普拉斯影业服务器
-HOST-SUFFIX,  emby.plusmedia.site,Emby公益
-HOST-SUFFIX,  emby-sg.plusmedia.site,Emby公益
-HOST-SUFFIX,  emby-cf.plusmedia.site,Emby公益
-HOST-SUFFIX,  emby.xeton.dev,Emby公益
-HOST-SUFFIX,  jellyfin.xeton.dev,Emby公益
-HOST-SUFFIX,  movie.xeton.dev,Emby公益
-HOST-SUFFIX,  servers.xeton.dev,Emby公益
-
-# > 流媒体WaveCloud服务器
-HOST-SUFFIX,  embyserver.ga,Emby公益
-
-# > 流媒体卷毛鼠服务器
-HOST-SUFFIX,  jmsooo.com,Emby公益
-HOST-SUFFIX,  cf.jmsooo.com,Emby公益
-HOST-SUFFIX,  hk.jmsooo.com,Emby公益
-HOST-SUFFIX,  sg.jmsooo.com,Emby公益
+payload:
+  - '+.pornemby.club'
+  - '+.misty.ltd'
+  - '+.mulgore.net'
+  - '+.singularity.deja-vu.beauty'
+  - '+.mjjemby.org'
+  - '+.emby.9191001.xyz'
+  - '+.film.nmg.llc'
+  - '+.direct.nebula-emby.com'
+  - '+.infinityfly.top'
+  - '+.play.acemby.org'
+  - '+.emby.wtf'
+  - '+.embyplus.org'
+  - '+.studyfun.live'
