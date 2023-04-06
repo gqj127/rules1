@@ -1,14 +1,14 @@
 payload:
-  - '+.pornemby.club'
-  - '+.misty.ltd'
-  - '+.mulgore.net'
-  - '+.singularity.deja-vu.beauty'
-  - '+.mjjemby.org'
-  - '+.emby.9191001.xyz'
-  - '+.film.nmg.llc'
-  - '+.direct.nebula-emby.com'
-  - '+.infinityfly.top'
-  - '+.play.acemby.org'
-  - '+.emby.wtf'
-  - '+.embyplus.org'
-  - '+.studyfun.live'
+  - DOMAIN-SUFFIX,pornemby.club
+  - DOMAIN-SUFFIX,misty.ltd
+  - DOMAIN-SUFFIX,mulgore.net
+  - DOMAIN-SUFFIX,singularity.deja-vu.beauty
+  - DOMAIN-SUFFIX,mjjemby.org
+  - DOMAIN-SUFFIX,emby.9191001.xyz
+  - DOMAIN-SUFFIX,film.nmg.llc
+  - DOMAIN-SUFFIX,direct.nebula-emby.com
+  - DOMAIN-SUFFIX,infinityfly.top
+  - DOMAIN-SUFFIX,play.acemby.org
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,embyplus.org
+  - DOMAIN-SUFFIX,studyfun.live
