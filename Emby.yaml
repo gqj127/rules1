@@ -11,5 +11,6 @@ payload:
   - DOMAIN-SUFFIX,play.acemby.org
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,embyplus.org
-  - DOMAIN-SUFFIX,studyfun.live
+  - DOMAIN-SUFFIX,cf.studyfun.live
   - DOMAIN-SUFFIX,cf.embytv.cf
+  - DOMAIN-SUFFIX,free.emby.eu.org
